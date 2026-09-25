@@ -49,4 +49,13 @@ pnpm test
 
 The browser check covers all five routes at 1440, 1024, 768, 390, and 320px; horizontal overflow; image loading; console / request errors; navigation; mobile menu; tabs and keyboard control; carousel; validated email draft generation; language persistence; anchor navigation; and 404 behavior. It writes screenshots and an asset geometry report to `test-results/` (gitignored). No test sends messages or visits third-party project sites.
 
-The production output is `dist/`. This project has not been published to a public host.
+The production output is `dist/`.
+
+## Deployment
+
+The site is deployed as a Cloudflare Workers static-assets site (an assets-only Worker) at **nusensia.com**.
+
+- `wrangler.jsonc` declares the assets-only Worker (`assets.directory = ./dist`, `not_found_handling = single-page-application` for client-side routing) and the `nusensia.com` custom domain. Cloudflare provisions the apex DNS record and SSL certificate automatically.
+- The toolchain is pinned via `mise.toml` (Node 22, pnpm 10) and the `packageManager` field in `package.json` (pnpm 10.34.5) so Cloudflare Builds resolves the same versions via corepack.
+- Local deploy: `mise exec -- pnpm run deploy` (runs `pnpm run build && wrangler deploy`; requires `wrangler login` or `CLOUDFLARE_API_TOKEN`).
+- CI: **Cloudflare Workers Builds** is connected to this repository. Every push to `main` triggers a build (`pnpm install --frozen-lockfile && pnpm run build`) and a deploy (`npx wrangler deploy`) on Cloudflare — no other pipeline configuration is required.
