@@ -1,0 +1,12 @@
+{
+  // Assets-only Worker (no "main" / Worker script): serves the static SPA built into ./dist.
+  // not_found_handling = "single-page-application" serves index.html (200 OK) for any path
+  // that does not match a static asset, providing client-side routing fallback for BrowserRouter.
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "nusensia-landingpage",
+  "compatibility_date": "2026-09-25",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  }
+}

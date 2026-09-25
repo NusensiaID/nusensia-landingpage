@@ -705,7 +705,7 @@ article[id] {
   font-weight: 700;
 }
 .products {
-  background: #3321ae url(/assets/products-background.png) center top / 100% auto repeat-y;
+  background: #3321ae url(/assets/products-background.webp) center top / 100% auto repeat-y;
   color: white;
   overflow: hidden;
   padding: 80px 0;

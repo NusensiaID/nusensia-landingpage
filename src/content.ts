@@ -7,22 +7,22 @@ export const navigation = [
   ['/about', ['About Us', 'Tentang Kami']],
 ] as const;
 export const logos = [
-  ['565aa.png', 'Universitas Gadjah Mada'],
-  ['736d6.png', 'Bluebird Group'],
+  ['565aa.webp', 'Universitas Gadjah Mada'],
+  ['736d6.webp', 'Bluebird Group'],
   ['ba3e4.png', 'Centre for Strategic and International Studies'],
-  ['32051.png', 'Bank Mandiri'],
-  ['99e5e.png', 'Microsoft'],
-  ['0f7de.png', 'PELNI'],
+  ['32051.webp', 'Bank Mandiri'],
+  ['99e5e.webp', 'Microsoft'],
+  ['0f7de.webp', 'PELNI'],
   ['ec670.png', 'Pegadaian'],
   ['abbaf.png', 'Kredivo'],
-  ['3e25f.png', 'Smartfren'],
+  ['3e25f.webp', 'Smartfren'],
   ['69daa.png', 'Lingkaran'],
   ['f4940.png', 'Zenius'],
-  ['0ad07.png', 'Purwadhika'],
+  ['0ad07.webp', 'Purwadhika'],
 ];
 export const software = [
   {
-    image: '3157e.png',
+    image: '3157e.webp',
     title: 'Agentic BI',
     description: [
       'Ask your data anything. AI agents analyze, alert, and report in real time.',
@@ -30,7 +30,7 @@ export const software = [
     ],
   },
   {
-    image: '459b6.png',
+    image: '459b6.webp',
     title: 'Agentic ERP',
     description: [
       'Intelligent agents that keep procurement, inventory, and assets running on time.',
@@ -38,7 +38,7 @@ export const software = [
     ],
   },
   {
-    image: '4bf1a.png',
+    image: '4bf1a.webp',
     title: 'AI-Powered Software Engineering',
     description: [
       'Build faster with AI, and ship with confidence through automated security and code quality checks.',
@@ -48,7 +48,7 @@ export const software = [
 ] satisfies { image: string; title: Copy; description: Copy }[];
 export const hardware = [
   {
-    image: '05d3b.png',
+    image: '05d3b.webp',
     title: ['Data Center Solutions', 'Solusi Data Center'],
     description: [
       'Rack and infrastructure design, power, cooling, and structured deployment for on-premise and hybrid environments.',
@@ -56,7 +56,7 @@ export const hardware = [
     ],
   },
   {
-    image: 'bbedf.png',
+    image: 'bbedf.webp',
     title: 'Enterprise AI',
     description: [
       'Use-case discovery, model development, LLM integration, and MLOps for secure, production-ready AI across on-premise, private, and cloud environments.',
@@ -68,7 +68,7 @@ export const products = [
   {
     name: 'Widya',
     category: ['Learning & Development platform', 'Platform Pembelajaran & Pengembangan'],
-    image: '69af0.png',
+    image: '69af0.webp',
     description: [
       'WIDYA helps organizations manage learning at scale, from assigning training to tracking competency development across teams.',
       'WIDYA membantu organisasi mengelola pembelajaran dalam skala besar, dari penugasan pelatihan hingga pemantauan pengembangan kompetensi tim.',
@@ -95,7 +95,7 @@ export const products = [
   {
     name: 'Ampera',
     category: ['Asset Management Platform', 'Platform Manajemen Aset'],
-    image: '83ff2.png',
+    image: '83ff2.webp',
     description: [
       'Ampera is an enterprise asset management platform for managing the work around physical assets. It brings together asset records, inspections, maintenance, approvals, and audit history, while working alongside the systems your organization already uses.',
       'Ampera adalah platform manajemen aset perusahaan yang menyatukan catatan aset, inspeksi, pemeliharaan, persetujuan, dan riwayat audit, serta bekerja bersama sistem yang sudah digunakan organisasi Anda.',
@@ -125,7 +125,7 @@ export const projects = [
   {
     name: 'CSIS Hate-speech Dashboard',
     category: ['Social Listening Dashboard', 'Dashboard Social Listening'],
-    image: 'e944d.png',
+    image: 'e944d.webp',
     description: [
       'The CSIS Hate-speech Dashboard tracks online hate speech trends in Indonesia. It uses a bespoke machine learning algorithm to collect Indonesian tweets on Twitter and identify whether they contain hate speech targeting one of five vulnerable minorities: Ahmadiyyas, Shi’as, Chinese Indonesian, Christians, and ethnic Papuans.',
       'CSIS Hate-speech Dashboard memantau tren ujaran kebencian daring di Indonesia. Algoritma machine learning khusus mengumpulkan tweet berbahasa Indonesia dan mengidentifikasi ujaran kebencian terhadap lima kelompok minoritas rentan: Ahmadiyah, Syiah, Tionghoa Indonesia, Kristen, dan etnis Papua.',
@@ -134,7 +134,7 @@ export const projects = [
   {
     name: 'LMS Intelijen',
     category: '',
-    image: 'e32cd.png',
+    image: 'e32cd.webp',
     description: [
       'Home, News, Programs, Projects. Mentoring, My Learning, My Certifications',
       'Beranda, Berita, Program, Proyek. Mentoring, Pembelajaran Saya, Sertifikasi Saya',
@@ -298,7 +298,7 @@ export const team = [
   {
     name: 'Rahadian Rizki',
     role: 'Chief Executive Officer',
-    image: 'e25c8.png',
+    image: 'e25c8.webp',
     description: [
       '8 years experience in data and technology field.',
       '8 tahun pengalaman dalam bidang data dan teknologi.',
@@ -307,7 +307,7 @@ export const team = [
   {
     name: 'Georgius Bagas',
     role: 'Chief Marketing Officer',
-    image: '4b1d2.png',
+    image: '4b1d2.webp',
     description: [
       '2 years experience in natural commodities trading and marketing.',
       '2 tahun pengalaman dalam perdagangan dan pemasaran komoditas alam.',

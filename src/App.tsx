@@ -352,7 +352,7 @@ function Hero({ page = 'home' }: { page?: 'home' | 'solutions' | 'portfolio' | '
       {page === 'home' && (
         <div className="hero-art" aria-hidden="true">
           <div className="map">
-            <Img file="4faef.png" eager />
+            <Img file="4faef.webp" eager />
           </div>
           {['20e57.svg', '39d11.svg', '07479.svg', '33643.svg'].map((f, i) => (
             <Img file={f} eager className={`glow glow-${i}`} key={f} />
@@ -717,7 +717,7 @@ function Cta({
   return (
     <section className="cta wrap" id="contact">
       <div className="cta-art" aria-hidden="true">
-        <Img file="cta-background.png" />
+        <Img file="cta-background.webp" />
       </div>
       <div className="cta-content">
         <h2>{t(texts[variant].title)}</h2>
@@ -752,7 +752,7 @@ function Footer() {
       <div className="footer-grid wrap">
         <div className="footer-brand">
           <Link to="/" aria-label="Nusensia — Home">
-            <Img file="86596.png" alt="Nusensia" />
+            <Img file="86596.webp" alt="Nusensia" />
           </Link>
           <p>
             {t([
@@ -958,7 +958,7 @@ function HardwareCatalog() {
                   {group.names.map((name) => (
                     <button className="hardware-card" key={name} onClick={() => consult(name)}>
                       <span className="hardware-thumbnail">
-                        <Img file="05d3b.png" />
+                        <Img file="05d3b.webp" />
                         <span />
                       </span>
                       <span>{name}</span>
@@ -1004,7 +1004,7 @@ function Resources() {
                             'Pratinjau desain. Hubungi tim kami untuk dokumen lengkap.',
                           ])}
                         </p>
-                        <Img file="ad276.png" alt={t(resource.title)} className="dialog-image" />
+                        <Img file="ad276.webp" alt={t(resource.title)} className="dialog-image" />
                         <Button onClick={() => consult(t(resource.title))}>
                           {t(['Request document', 'Minta dokumen'])}
                         </Button>
@@ -1013,7 +1013,7 @@ function Resources() {
                   })
                 }
               >
-                <Img file="ad276.png" alt={t(resource.title)} />
+                <Img file="ad276.webp" alt={t(resource.title)} />
               </button>
               <div>
                 <p className="kicker resource-meta">
@@ -1028,7 +1028,7 @@ function Resources() {
                         body: (
                           <>
                             <Img
-                              file="ad276.png"
+                              file="ad276.webp"
                               alt={t(resource.title)}
                               className="dialog-image"
                             />
@@ -1100,7 +1100,7 @@ function AboutHero() {
       </div>
       <div className="about-photos">
         <Img
-          file="b6ff1.png"
+          file="b6ff1.webp"
           alt={t([
             'Nusensia presenting a technology workshop',
             'Presentasi workshop teknologi Nusensia',
@@ -1109,12 +1109,12 @@ function AboutHero() {
         />
         <div>
           <Img
-            file="b68ba.png"
+            file="b68ba.webp"
             alt={t(['Team collaboration during a workshop', 'Kolaborasi tim saat workshop'])}
             eager
           />
           <Img
-            file="72920.png"
+            file="72920.webp"
             alt={t(['Institutional training session', 'Sesi pelatihan institusi'])}
             eager
           />
@@ -1131,7 +1131,7 @@ function Story() {
       <SectionLabel>{t(['Our story', 'Cerita kami'])}</SectionLabel>
       <div className="wrap story-layout">
         <Img
-          file="c74ba.png"
+          file="c74ba.webp"
           alt={t(['Team collaborating on technology', 'Tim berkolaborasi mengembangkan teknologi'])}
         />
         <div>
