@@ -1,0 +1,33 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="382" height="235" viewBox="0 0 382 235" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="built-to-operate 1" clip-path="url(#clip0_0_394)">
+<g id="Vector">
+<path d="M382 0H0V235H382V0Z" fill="#32248F"/>
+<path d="M382 0H0V235H382V0Z" fill="url(#pattern0_0_394)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
+</g>
+<g id="Group 2">
+<path id="Vector_2" d="M18 32V18H32" stroke="white" stroke-opacity="0.4" stroke-width="3"/>
+<path id="Vector_3" d="M364 32V18H350" stroke="white" stroke-opacity="0.4" stroke-width="3"/>
+<path id="Vector_4" d="M18 203V217H32" stroke="white" stroke-opacity="0.4" stroke-width="3"/>
+<path id="Vector_5" d="M364 203V217H350" stroke="white" stroke-opacity="0.4" stroke-width="3"/>
+</g>
+<g id="Group 1">
+<path id="Vector_6" d="M190.833 196C233.911 196 268.833 161.078 268.833 118C268.833 74.9218 233.911 40 190.833 40C147.755 40 112.833 74.9218 112.833 118C112.833 161.078 147.755 196 190.833 196Z" stroke="white" stroke-opacity="0.45" stroke-width="1.95" stroke-dasharray="4.5 7.5"/>
+<path id="Vector_7" d="M190.833 34V46" stroke="white" stroke-opacity="0.55" stroke-width="1.95"/>
+<path id="Vector_8" d="M190.833 190V202" stroke="white" stroke-opacity="0.55" stroke-width="1.95"/>
+<path id="Vector_9" d="M106.833 118H118.833" stroke="white" stroke-opacity="0.55" stroke-width="1.95"/>
+<path id="Vector_10" d="M262.833 118H274.833" stroke="white" stroke-opacity="0.55" stroke-width="1.95"/>
+<path id="Vector_11" d="M190.833 40C203.249 40.034 215.477 43.0314 226.501 48.7429C237.525 54.4543 247.026 62.7148 254.215 72.8377C261.403 82.9605 266.072 94.6531 267.832 106.943C269.591 119.234 268.392 131.767 264.333 143.5" stroke="#8E87C2" stroke-width="3"/>
+<path id="Vector_12" d="M264.332 148.6C267.149 148.6 269.432 146.317 269.432 143.5C269.432 140.684 267.149 138.4 264.332 138.4C261.516 138.4 259.232 140.684 259.232 143.5C259.232 146.317 261.516 148.6 264.332 148.6Z" fill="#8E87C2"/>
+<path id="Vector_13" d="M127.833 118H156.333L168.333 92.5L180.333 143.5L192.333 104.5L204.333 130L216.333 118H253.833" stroke="white" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_394">
+<rect width="382" height="235" fill="white"/>
+</clipPath>
+<pattern id="pattern0_0_394" patternUnits="userSpaceOnUse" patternTransform="matrix(29.76 0 0 29.76 188.6 115.1)" preserveAspectRatio="none" viewBox="0 0 24.8 24.8" width="1" height="1">
+<g id="pattern0_0_394_inner">
+<rect id="Rectangle 909" width="4" height="4" fill="white"/>
+</g>
+</pattern></defs>
+</svg>

@@ -1,0 +1,45 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="382" height="235" viewBox="0 0 382 235" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="end-to-end-delivery 1" clip-path="url(#clip0_0_341)">
+<g id="Vector">
+<path d="M382 0H0V235H382V0Z" fill="#32248F"/>
+<path d="M382 0H0V235H382V0Z" fill="url(#pattern0_0_341)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
+</g>
+<path id="Vector_2" d="M18 32V18H32" stroke="white" stroke-opacity="0.4" stroke-width="1.2"/>
+<path id="Vector_3" d="M364 32V18H350" stroke="white" stroke-opacity="0.4" stroke-width="1.2"/>
+<path id="Vector_4" d="M18 203V217H32" stroke="white" stroke-opacity="0.4" stroke-width="1.2"/>
+<path id="Vector_5" d="M364 203V217H350" stroke="white" stroke-opacity="0.4" stroke-width="1.2"/>
+<g id="Group 4">
+<g id="Group">
+<path id="Vector_6" d="M83.6923 94H38.3846C37.0676 94 36 95.0677 36 96.3847V141.692C36 143.009 37.0676 144.077 38.3846 144.077H83.6923C85.0093 144.077 86.0769 143.009 86.0769 141.692V96.3847C86.0769 95.0677 85.0093 94 83.6923 94Z" fill="white" fill-opacity="0.07" stroke="white" stroke-width="1.4"/>
+<path id="Vector_7" opacity="0.7" d="M44.3462 107.115H77.7308" stroke="white"/>
+<path id="Vector_8" opacity="0.7" d="M44.3462 119.038H77.7308" stroke="white"/>
+<path id="Vector_9" opacity="0.7" d="M44.3462 130.962H77.7308" stroke="white"/>
+</g>
+<path id="Vector_10" d="M86 119L139 118.781" stroke="white" stroke-opacity="0.5" stroke-width="1.2" stroke-dasharray="3 4"/>
+<path id="Vector_11" d="M144 124C146.761 124 149 121.761 149 119C149 116.239 146.761 114 144 114C141.239 114 139 116.239 139 119C139 121.761 141.239 124 144 124Z" stroke="#9891C7" stroke-width="1.4"/>
+<g id="Group_2">
+<path id="Vector_12" d="M207.692 109.923H157.615C156.298 109.923 155.231 110.991 155.231 112.308V124.231C155.231 125.548 156.298 126.616 157.615 126.616H207.692C209.009 126.616 210.077 125.548 210.077 124.231V112.308C210.077 110.991 209.009 109.923 207.692 109.923Z" fill="white" fill-opacity="0.07" stroke="white" stroke-width="1.3"/>
+<path id="Vector_13" d="M202.923 98.0002H162.385C161.068 98.0002 160 99.0678 160 100.385V112.308C160 113.625 161.068 114.692 162.385 114.692H202.923C204.24 114.692 205.308 113.625 205.308 112.308V100.385C205.308 99.0678 204.24 98.0002 202.923 98.0002Z" fill="white" fill-opacity="0.1" stroke="white" stroke-width="1.3"/>
+<path id="Vector_14" d="M198.154 121.846H167.154C165.837 121.846 164.769 122.914 164.769 124.231V136.154C164.769 137.471 165.837 138.539 167.154 138.539H198.154C199.471 138.539 200.538 137.471 200.538 136.154V124.231C200.538 122.914 199.471 121.846 198.154 121.846Z" fill="white" fill-opacity="0.07" stroke="white" stroke-width="1.3"/>
+</g>
+<path id="Vector_15" d="M217 119H270" stroke="white" stroke-opacity="0.5" stroke-width="1.2" stroke-dasharray="3 4"/>
+<path id="Vector_16" d="M275 124C277.761 124 280 121.761 280 119C280 116.239 277.761 114 275 114C272.239 114 270 116.239 270 119C270 121.761 272.239 124 275 124Z" stroke="#9891C7" stroke-width="1.4"/>
+<g id="Group_3">
+<path id="Vector_17" d="M343.615 94.0002H291.154C289.837 94.0002 288.769 95.0678 288.769 96.3848V132.154C288.769 133.471 289.837 134.539 291.154 134.539H343.615C344.932 134.539 346 133.471 346 132.154V96.3848C346 95.0678 344.932 94.0002 343.615 94.0002Z" fill="white" fill-opacity="0.07" stroke="white" stroke-width="1.4"/>
+<path id="Vector_18" opacity="0.6" d="M295.923 103.539H338.846" stroke="white"/>
+<path id="Vector_19" opacity="0.6" d="M295.923 113.077H324.538" stroke="white"/>
+<path id="Vector_20" d="M310.231 134.539H324.538" stroke="white" stroke-width="1.4"/>
+<path id="Vector_21" d="M317.385 134.539V141.692" stroke="white" stroke-width="1.4"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_341">
+<rect width="382" height="235" fill="white"/>
+</clipPath>
+<pattern id="pattern0_0_341" patternUnits="userSpaceOnUse" patternTransform="matrix(29.76 0 0 29.76 188.6 115.1)" preserveAspectRatio="none" viewBox="0 0 24.8 24.8" width="1" height="1">
+<g id="pattern0_0_341_inner">
+<rect id="Rectangle 909" width="4" height="4" fill="white"/>
+</g>
+</pattern></defs>
+</svg>

@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.tsbuildinfo
+test-results/
+.DS_Store
+
+# deploy / runtime state
+.netlify/
+.pnpm-store/
+.wrangler/
+.dev.vars
